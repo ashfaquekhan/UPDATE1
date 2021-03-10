@@ -1,1 +1,1 @@
-chaman o ujde chaman
+ENCRYPT
